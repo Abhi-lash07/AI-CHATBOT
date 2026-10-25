@@ -1,0 +1,18 @@
+[
+  {
+    "id": "user_default",
+    "name": "Explorer",
+    "email": "explorer@chatbot.ai",
+    "salt": "e5ead711c9f3def5b5723eead239c226",
+    "hash": "69d0fc4d9183fdc741ed5f900ad17c49d8753a328537685cbfe3ba82fc2f525047a9b3df39b660923f4fd272e1cadc43462833303924efe4f9ed58da8af51bb2",
+    "createdAt": "2026-10-13T16:55:40.035Z"
+  },
+  {
+    "id": "user_1791911319726_2c2c7b26",
+    "name": "saketh",
+    "email": "shenishettisaketh@gmail.com",
+    "salt": "2377150d0c569fb1addd6b9b721ba814",
+    "hash": "23d3082b2b6882294973c51206028e0ccf15af611e11bba6992b0c45d4d0b61b6c24396285d8991b30caadf5ea50d09d16aca1e4d3a6ab8cc3be0d16c5dcf9bf",
+    "createdAt": "2026-10-13T17:08:39.730Z"
+  }
+]
